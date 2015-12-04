@@ -1,0 +1,17 @@
+{
+    "name": "useful-web/yii2-migration-tool",
+    "description": "Yii2 Migration Tool",
+    "license": "MIT",
+    "version" : "0.1",
+    "authors": [
+        {
+            "name": "Vladimir Yazykov",
+            "email": "neizerth@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "\\UsefulWeb\\MigrationTool\\": "src"
+        }
+    }
+}
